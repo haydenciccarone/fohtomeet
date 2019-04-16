@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eedeeyohy.baybridgepython.org/sitemap.xml
